@@ -1,4 +1,4 @@
-package PDF_Exam_Ch1_Working_With_Java_Data_Types;
+package PDF_Exam_Ch1_Working_With_Java_Data_Types.Ex01;
 
 public class ex1 {
 	
